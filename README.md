@@ -6,6 +6,10 @@ All about Azure Function App. This repository contains everything you need to le
 "Worry about servers, less."
 That's the promise of serverless. There are still servers involved, but you don't have to worry about them as much. You can focus on writing code that delivers value for you and your business.
 
+A serverless computing doesn’t mean no server. The code still runs on a server, but you don’t need to care as much about the underlying infrastructure because a third-party service like a Cloud provider will handle it for you. This leads to less time in operations and more time for developing software.
+
+Serverless typically follows a pay-per-execution model, which means you have to pay only when your code runs. This can result in huge cost savings. Serverless also typically provide automatic scaling in real-time based on the computing resources need.
+
 Common aspects of serverless are:
 
 1. Pay as you go
