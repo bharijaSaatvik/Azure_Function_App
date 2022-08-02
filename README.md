@@ -8,9 +8,14 @@ That's the promise of serverless. There are still servers involved, but you don'
 
 Common aspects of serverless are:
 
-Pay as you go
-Automatic scaling
-Event-driven (for serverless compute)
+1. Pay as you go
+2. Automatic scaling
+3. Event-driven (for serverless compute)
+
 These aspects make it very attractive for both small and large organizations to move to serverless.
 
 The Azure cloud contains many services which are considered serverless. There's serverless storage, such as CosmosDB and Blob Storage, and there's serverless compute services such as Azure Functions and Logic Apps.
+
+
+# Azure Functions
+Azure Functions is an event-driven serverless compute platform in the Azure cloud. It integrates seamlessly with many other Azure services through triggers and bindings.
