@@ -12,3 +12,6 @@ Azure Cosmos DB is a fully managed globally distributed NoSQL database. It provi
 2. Create a new Azure Function using Visual Studio Code and test.
 3. Develop the two APIs — CreateUser and GetUsers
 4. Deploy the two functions to the Azure Function
+
+# Flow-chart
+![image](https://user-images.githubusercontent.com/108589568/182418384-ea0fb5df-b2a8-471f-8f56-319c32ece6d5.png)
