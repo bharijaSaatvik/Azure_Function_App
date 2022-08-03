@@ -4,10 +4,10 @@ In this tutorial, we’re going to build a Serverless API using HTTP Triggers in
 # What is Azure Function?
 Azure Functions are small pieces of code that we can run in Azure without worrying too much about application infrastructure. One of the great advantage using Azure Function is to save cost, the charges on happen when the functions are executed. Comparing with traditional server based or container based technology, whether or not the functions are executed, the charges is based on the duration that the application servers run.
 
-# What is Azure Cosmos DB?
-Azure Cosmos DB is a fully managed globally distributed NoSQL database. It provides schema agnostic capabilities for developers to develop modern applications. Azure Cosmos DB elastically scale the provisioned throughput and storage for your Cosmos databases based on your need and pay only for the throughput and storage you need. This leads to significant cost savings.
+# What is Azure Cosmos DB? <![image](https://user-images.githubusercontent.com/108589568/182672417-eff71376-be44-4e6c-b6bc-dec7f9a0be7d.png)>
+Azure Cosmos DB <![image](https://user-images.githubusercontent.com/108589568/182672724-37f8f9a2-4ab7-4d45-852c-7255d4252b4c.png)> is a fully managed globally distributed NoSQL database. It provides schema agnostic capabilities for developers to develop modern applications. Azure Cosmos DB elastically scale the provisioned throughput and storage for your Cosmos databases based on your need and pay only for the throughput and storage you need. This leads to significant cost savings.
                                              
-                            ![image](https://user-images.githubusercontent.com/108589568/182671877-00d2bf27-f306-4bc6-b741-6901bc4c8ce5.png)
+   ![image](https://user-images.githubusercontent.com/108589568/182671877-00d2bf27-f306-4bc6-b741-6901bc4c8ce5.png)
 
 # GOAL🎯
 In this we shall be following below steps:
