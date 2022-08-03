@@ -8,6 +8,7 @@ Azure Functions are small pieces of code that we can run in Azure without worryi
 Azure Cosmos DB is a fully managed globally distributed NoSQL database. It provides schema agnostic capabilities for developers to develop modern applications. Azure Cosmos DB elastically scale the provisioned throughput and storage for your Cosmos databases based on your need and pay only for the throughput and storage you need. This leads to significant cost savings.
 
 # Outline
+In this we shall be following below steps:
 1. Create a new Cosmos DB account and container.
 2. Create a new Azure Function using Visual Studio Code and test.
 3. Develop the two APIs — CreateUser and GetUsers
@@ -15,3 +16,6 @@ Azure Cosmos DB is a fully managed globally distributed NoSQL database. It provi
 
 # Flow-chart
 ![image](https://user-images.githubusercontent.com/108589568/182418384-ea0fb5df-b2a8-471f-8f56-319c32ece6d5.png)
+
+# Create new Azure Cosmos DB account
+
