@@ -6,6 +6,7 @@ Azure Functions are small pieces of code that we can run in Azure without worryi
 
 # What is Azure Cosmos DB?
 Azure Cosmos DB is a fully managed globally distributed NoSQL database. It provides schema agnostic capabilities for developers to develop modern applications. Azure Cosmos DB elastically scale the provisioned throughput and storage for your Cosmos databases based on your need and pay only for the throughput and storage you need. This leads to significant cost savings.
+                                                 ![image](https://user-images.githubusercontent.com/108589568/182671877-00d2bf27-f306-4bc6-b741-6901bc4c8ce5.png)
 
 # GOAL🎯
 In this we shall be following below steps:
