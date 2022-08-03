@@ -1,5 +1,7 @@
 # Azure_Function_App
-All about Azure Function App. This repository contains everything you need to learn about Azure Functions <⚡> !!!
+All about Azure Function App. This repository contains everything you need to learn about Azure Functions <⚡> !!!💯
+![MuaKissGIF](https://user-images.githubusercontent.com/108589568/182670897-d2cc8e4d-bc24-439f-b161-df9d2702eaa2.gif)
+
 
 
 # Introduction to Serverless
