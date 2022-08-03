@@ -37,4 +37,8 @@ Step 1 is now completed.
 # 2. Create new Azure Function
 To create a Function in Azure, there are few ways to do it. One of the simplest way is to create functions on the Azure portal. Also we can do in VS code as well.
 
+# 3. Create NewUser API
+
+# 4. Create Get User API
+
 
