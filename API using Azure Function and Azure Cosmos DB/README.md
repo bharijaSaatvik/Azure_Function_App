@@ -27,6 +27,12 @@ After the validation is successful, we can click on the Create button.
 On the Overview page, click ‘Add Container’ button to create new container.
 ![image](https://user-images.githubusercontent.com/108589568/182666227-c453acba-9e32-424e-a6dd-b04f2729bd75.png)
 
+Enter the Key in the Database id (serverless-db), Container id(user) and the Partition key (can use the /id as partition key). Remember the Database id and Container Id because we would be using on the later part of the tutorial. Click OK.
+![image](https://user-images.githubusercontent.com/108589568/182666783-4989d669-b0eb-4069-9707-e9125502c91d.png)
+
+After the successful creation of the container and database, it should appear on the Data Explorer view.
+Step 1 is now completed.
+
 
 # 2. Create new Azure Function
 To create a Function in Azure, there are few ways to do it. One of the simplest way is to create functions on the Azure portal. Also we can do in VS code as well.
