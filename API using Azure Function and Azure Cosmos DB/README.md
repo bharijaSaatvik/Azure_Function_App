@@ -28,6 +28,7 @@ On the Overview page, click ‘Add Container’ button to create new container.
 ![image](https://user-images.githubusercontent.com/108589568/182666227-c453acba-9e32-424e-a6dd-b04f2729bd75.png)
 
 
-# 2. 
+# 2. Create new Azure Function
+To create a Function in Azure, there are few ways to do it. One of the simplest way is to create functions on the Azure portal. Also we can do in VS code as well.
 
 
