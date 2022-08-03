@@ -41,4 +41,6 @@ To create a Function in Azure, there are few ways to do it. One of the simplest 
 
 # 4. Create Get User API
 
+# 5. Test Function App on Azure Portal
+
 
