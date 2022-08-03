@@ -22,5 +22,8 @@ Create a Azure Cosmos DB Account on the Azure portal.
 Enter an account name for the Cosmos DB and leave other options as default. 
 Click Review + Create.
 ![image](https://user-images.githubusercontent.com/108589568/182665541-ba3d469d-2ff9-40a3-88f8-9099107c2d51.png)
+After the validation is successful, we can click on the Create button.
+
+# 2. 
 
 
