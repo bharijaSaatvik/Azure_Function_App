@@ -24,6 +24,10 @@ Click Review + Create.
 ![image](https://user-images.githubusercontent.com/108589568/182665541-ba3d469d-2ff9-40a3-88f8-9099107c2d51.png)
 After the validation is successful, we can click on the Create button.
 
+On the Overview page, click ‘Add Container’ button to create new container.
+![image](https://user-images.githubusercontent.com/108589568/182666227-c453acba-9e32-424e-a6dd-b04f2729bd75.png)
+
+
 # 2. 
 
 
