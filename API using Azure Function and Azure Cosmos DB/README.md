@@ -1,4 +1,4 @@
-# Build API using Azure Function with Python and Azure Cosmos DB
+# Build API using Azure Function (in Python) & Azure Cosmos DB
 In this tutorial, we’re going to build a Serverless API using HTTP Triggers in Azure Functions that uses a Azure Cosmos DB as database. We’re going to build an API that stores information about products.
 
 # What is Azure Function?
